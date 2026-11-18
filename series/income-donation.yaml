@@ -1,0 +1,16 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: income-donation
+name: 寄附の収入
+category: 予算
+unit: 百万円
+period: 年度
+definition: 観測所への寄附（野辺山基金など）
+owner_role: 未定
+update: 年次
+values:
+- period: 2025年度
+  value: 6
+  estimate: true
+  source: UM2025b
+  note: 野辺山基金は2025年4月18日に開始し、6か月で600万円を超えた。2026年度は減る見込みとする

@@ -1,0 +1,125 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: theses-doctor
+name: 45m 鏡と観測所を使った博士論文の数
+category: 成果
+unit: 人
+period: 暦年
+definition: 観測所の学位論文の一覧の博士論文の件数（一覧の「年」の欄。年度か暦年かは未確認）
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: '1985'
+  value: 4
+  source: 学位論文の一覧
+- period: '1986'
+  value: 3
+  source: 学位論文の一覧
+- period: '1987'
+  value: 5
+  source: 学位論文の一覧
+- period: '1988'
+  value: 2
+  source: 学位論文の一覧
+- period: '1989'
+  value: 2
+  source: 学位論文の一覧
+- period: '1990'
+  value: 4
+  source: 学位論文の一覧
+- period: '1991'
+  value: 2
+  source: 学位論文の一覧
+- period: '1992'
+  value: 2
+  source: 学位論文の一覧
+- period: '1993'
+  value: 6
+  source: 学位論文の一覧
+- period: '1995'
+  value: 2
+  source: 学位論文の一覧
+- period: '1996'
+  value: 5
+  source: 学位論文の一覧
+- period: '1997'
+  value: 4
+  source: 学位論文の一覧
+- period: '1998'
+  value: 3
+  source: 学位論文の一覧
+- period: '1999'
+  value: 6
+  source: 学位論文の一覧
+- period: '2000'
+  value: 6
+  source: 学位論文の一覧
+- period: '2001'
+  value: 3
+  source: 学位論文の一覧
+- period: '2002'
+  value: 1
+  source: 学位論文の一覧
+- period: '2004'
+  value: 2
+  source: 学位論文の一覧
+- period: '2005'
+  value: 5
+  source: 学位論文の一覧
+- period: '2006'
+  value: 1
+  source: 学位論文の一覧
+- period: '2007'
+  value: 2
+  source: 学位論文の一覧
+- period: '2008'
+  value: 6
+  source: 学位論文の一覧
+- period: '2009'
+  value: 3
+  source: 学位論文の一覧
+- period: '2010'
+  value: 6
+  source: 学位論文の一覧
+- period: '2011'
+  value: 1
+  source: 学位論文の一覧
+- period: '2012'
+  value: 5
+  source: 学位論文の一覧
+- period: '2014'
+  value: 3
+  source: 学位論文の一覧
+- period: '2015'
+  value: 3
+  source: 学位論文の一覧
+- period: '2016'
+  value: 2
+  source: 学位論文の一覧
+- period: '2017'
+  value: 6
+  source: 学位論文の一覧
+- period: '2018'
+  value: 5
+  source: 学位論文の一覧
+- period: '2019'
+  value: 2
+  source: 学位論文の一覧
+- period: '2020'
+  value: 4
+  source: 学位論文の一覧
+- period: '2021'
+  value: 1
+  source: 学位論文の一覧
+- period: '2022'
+  value: 1
+  source: 学位論文の一覧
+- period: '2023'
+  value: 3
+  source: 学位論文の一覧
+- period: '2024'
+  value: 1
+  source: 学位論文の一覧
+note: 観測所の「データで見る」では、2023年度1名、2024年度2名。UM2024 は5年の平均を年2人とする。一覧は利用者からの情報提供で補っており、漏れがありうる。一覧に載っていない年は書いていない（0件か記録がないかは区別できない）

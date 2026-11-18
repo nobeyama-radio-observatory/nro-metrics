@@ -1,0 +1,25 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: telescope-proposals
+name: 45m 鏡の観測の応募の件数（有料の望遠鏡時間の期間）
+category: 利用
+unit: 件
+period: 年度
+definition: 45m 鏡の観測への応募の総数。科学観測、装置開発関連、観測実習を含む
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  value: 35
+  source: データで見る2023年度
+  note: 科学観測27、装置開発関連5、観測実習3。UM2024 は前年（2023年）を「37件」とする（数え方の違いは未確認）
+- period: 2024年度
+  value: 52
+  source: データで見る2024年度
+  note: 科学観測46、装置開発関連2、観測実習4。UM2024 も52件
+- period: 2025年度
+  value: 51
+  source: UM2025a
+note: 共同利用（2021年度まで）の観測提案の件数は proposals-submitted。学生の無料の枠の応募は student-proposals

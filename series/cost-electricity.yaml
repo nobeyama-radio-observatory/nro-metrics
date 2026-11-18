@@ -1,0 +1,16 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: cost-electricity
+name: 電気代
+category: 予算
+unit: 百万円
+period: 年度
+definition: 観測所の電気代
+owner_role: 未定
+update: 年次
+values:
+- period: 2025年度
+  value: 30
+  estimate: true
+  source: UM2025b
+  note: 発表は「~30M」

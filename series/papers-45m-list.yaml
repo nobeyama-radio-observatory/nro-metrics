@@ -1,0 +1,30 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: papers-45m-list
+name: 45m 鏡を使った査読論文の数（観測所の論文の一覧、暦年）
+category: 成果
+unit: 本
+period: 暦年
+definition: 観測所の論文の一覧の年ごとの件数。一覧は利用者からの情報提供で補っている
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: '2020'
+  value: 35
+  source: 論文の一覧
+- period: '2021'
+  value: 35
+  source: 論文の一覧
+- period: '2022'
+  value: 33
+  source: 論文の一覧
+- period: '2023'
+  value: 36
+  source: 論文の一覧
+- period: '2024'
+  value: 30
+  source: 論文の一覧
+  note: 2024年8月9日の更新の時点の値
+note: 2018・2019年の節は件数を確かめられなかった（番号と文献の数が合わない）ので入れていない

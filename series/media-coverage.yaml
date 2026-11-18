@@ -1,0 +1,17 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: media-coverage
+name: 取材の対応の件数
+category: 広報
+unit: 件
+period: 年度
+definition: 新聞、テレビ、ラジオ、書籍・雑誌、インターネット媒体などの取材への対応の件数
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  value: 19
+  source: データで見る2023年度
+- period: 2024年度
+  value: 46
+  source: データで見る2024年度

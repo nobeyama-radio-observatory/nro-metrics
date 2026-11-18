@@ -15,4 +15,8 @@ values:
 - period: 2019年度
   value: 5
   source: 技術シンポ2019
+- period: 2025年度
+  value: 5
+  source: UM2025b
+  note: 発表の体制図の「+5 engineers」
 note: グループ単位の内訳は出さない（ハブの metrics/README.md の書き方の決まり）

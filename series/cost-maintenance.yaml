@@ -1,0 +1,18 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: cost-maintenance
+name: 装置の保守の費用
+category: 予算
+unit: 百万円
+period: 年度
+definition: 装置の保守の費用（アンテナ、冷凍機、受信機、計算機など）
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: 2025年度
+  value: 53
+  estimate: true
+  source: UM2025b
+  note: 発表は「~53M」。アンテナ30、冷凍機5、受信機2.5、計算機10

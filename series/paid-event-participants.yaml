@@ -1,0 +1,25 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: paid-event-participants
+name: 南牧村との連携事業の参加者数
+category: 広報
+unit: 人
+period: 年度
+definition: 南牧村との連携事業（有料のガイドツアー、学びの部屋、ナイトツアー、星空撮影など）の参加者の合計
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  value: 3075
+  source: データで見る2023年度
+  note: ガイドツアー71回1,323人、学びの部屋39日1,025人、ナイトツアー30回485人、星空撮影5回111人、ほかの夜のイベント11回131人。UM2024 も合計3,075人
+- period: 2024年度
+  value: 5409
+  source: データで見る2024年度
+  note: ガイドツアー75回1,646人、学びの部屋304回2,705人、ナイトツアー45回971人、星空撮影4回87人の合計
+- period: 2025年度
+  value: 13149
+  estimate: true
+  source: UM2025b
+  note: 昼のツアー（短）8,536人、（全）2,273人、ミニ講義2,090人、ナイトツアー約250人の合計。年度の途中の値の可能性がある
+note: 2025年度は別に、巡回展（野辺山天文台展）が51の施設で開かれ、25.2万人が参加した（UM2025b）

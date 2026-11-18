@@ -1,0 +1,21 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: dev-projects
+name: 開発プログラムの進行中のプロジェクトの数
+category: 利用
+unit: 件
+period: 年度
+definition: 45m 鏡の開発プログラム（装置の開発の場の提供）で進行中のプロジェクトの数
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  value: 8
+  source: データで見る2023年度
+  note: 新規の応募3件
+- period: 2024年度
+  value: 10
+  source: データで見る2024年度
+  note: 新規の応募2件。UM2024（2024年12月）は「9件が進行中」とする
