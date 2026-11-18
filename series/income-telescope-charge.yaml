@@ -1,0 +1,22 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: income-telescope-charge
+name: 有料の望遠鏡時間の収入
+category: 予算
+unit: 百万円
+period: 年度
+definition: 45m 鏡の有料の望遠鏡時間の販売による観測所の収入
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: 2024年度
+  value: 15.5
+  source: UM2024
+- period: 2025年度
+  value: 20
+  estimate: true
+  source: UM2025b
+  note: 発表は「~20M」
+note: 使い道は、年間の運用の費用（電気代、保守）と、将来の大きな故障の修理（UM2024、UM2025a）

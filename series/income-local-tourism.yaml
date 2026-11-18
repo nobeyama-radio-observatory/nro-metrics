@@ -1,0 +1,30 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: income-local-tourism
+name: 南牧村との連携による収入
+category: 予算
+unit: 百万円
+period: 年度
+definition: 南牧村との連携事業（ツアーなど）の収益のうち観測所に送られる分
+owner_role: 未定
+update: 年次
+values:
+- period: 2020年度
+  value: 0.125
+  source: UM2024
+  note: COVID-19 の影響
+- period: 2021年度
+  value: 0.167
+  source: UM2024
+- period: 2022年度
+  value: 0.468
+  source: UM2024
+- period: 2023年度
+  value: 0.727
+  source: UM2024
+- period: 2025年度
+  value: 2
+  estimate: true
+  source: UM2025b
+  note: 発表は「~2M」。4年間ほぼ毎年2倍に増えたが、2026年度は続かない見込みとする。2025年度から、自治体と協力して作られた事業会社が運営
+note: 発表は年を「(2020)」などと書いており、年度か暦年かは未確認。ここでは年度とした

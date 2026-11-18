@@ -1,0 +1,18 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: sns-followers-x
+name: X（旧 Twitter）のフォロワーの数
+category: 広報
+unit: 人
+period: 時点
+definition: 観測所の X のアカウントのフォロワーの数
+owner_role: 未定
+update: 随時
+values:
+- period: 2024-04（2023年度の報告の時点）
+  value: 14917
+  source: データで見る2023年度
+- period: '2025-06-03'
+  value: 24394
+  source: データで見る2024年度
+note: Bluesky は 221人（2024年4月）→ 1,167人（2025年6月3日）、Instagram は 151人 → 797人

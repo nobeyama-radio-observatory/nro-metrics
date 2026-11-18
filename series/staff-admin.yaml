@@ -1,0 +1,16 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: staff-admin
+name: 事務系の職員の数
+category: 人員
+unit: 人
+period: 年度
+definition: 観測所の事務系の職員の数
+owner_role: 未定
+update: 年次
+values:
+- period: 2025年度
+  value: 5
+  source: UM2025b
+  note: 発表の体制図の「+5 admin staffs」
+note: グループ単位の内訳は出さない

@@ -1,0 +1,21 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: open-day-onsite-visitors
+name: 特別公開（現地）の来場者数
+category: 広報
+unit: 人
+period: 年度
+definition: 現地で行う特別公開の日の来場者数
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  value: 1353
+  source: データで見る2023年度
+- period: 2024年度
+  value: 1185
+  source: データで見る2024年度
+  note: UM2024 は1183人とする
+- period: 2025年度
+  value: 2935
+  source: UM2025b

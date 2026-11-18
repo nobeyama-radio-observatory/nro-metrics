@@ -1,0 +1,25 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: student-proposals
+name: 学生の無料の枠の応募の件数
+category: 利用
+unit: 件
+period: 年度
+definition: 45m 鏡の学生の無料の枠（年100時間まで、JSAC の一部の委員が科学審査）への応募の件数
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  value: 4
+  source: UM2024
+  note: 142時間の要求
+- period: 2024年度
+  value: 5
+  source: UM2024
+  note: 185時間の要求。採択は3件、67時間
+- period: 2025年度
+  value: 11
+  source: UM2025a
+  note: 475時間の要求。発表の表では、時間を割り当てたのは5件で合計98時間（表の値の合計）

@@ -1,0 +1,20 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: papers-45m-fy
+name: 45m 鏡を使った査読論文の出版数（年度）
+category: 成果
+unit: 本
+period: 年度
+definition: 観測所の「データで見る」の投稿論文出版数
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  value: 35
+  source: データで見る2023年度
+- period: 2024年度
+  value: 41
+  source: データで見る2024年度
+note: 同じ観測所の報告でも数える期間が違う値がある。ユーザーズミーティングの報告は11月〜翌10月で、42本（2023年11月〜2024年10月、UM2024）、34本（2024年11月〜2025年10月、UM2025a）。暦年の値は papers-45m-list、国立天文台の論文統計による値は papers-refereed-45m

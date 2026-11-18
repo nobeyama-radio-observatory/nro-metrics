@@ -1,0 +1,26 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: telescope-hours-allocated
+name: 45m 鏡の観測に割り当てた時間
+category: 運用
+unit: 時間
+period: 年度
+definition: その年度に観測に割り当てた時間の合計（有料の望遠鏡時間、学生の枠、観測実習などを含むとみられる。内訳は未確認）
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  value: 2378
+  source: データで見る2023年度
+  note: 「データで見る」の総観測時間。UM2024 は前年（2023年）を「1797時間の要求」とする（数え方の違いは未確認）
+- period: 2024年度
+  value: 1603
+  source: データで見る2024年度
+  note: 「データで見る」の総観測時間。UM2024 は「1603時間を割り当てた」とする
+- period: 2025年度
+  value: 1666
+  source: UM2025a
+  note: 割り当てた時間
+note: 提供時間の枠（年3,000時間の計画）は offered-hours

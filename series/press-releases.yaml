@@ -1,0 +1,17 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: press-releases
+name: プレスリリースの数
+category: 広報
+unit: 件
+period: 年度
+definition: 観測所が出したプレスリリースの数
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  value: 4
+  source: データで見る2023年度
+- period: 2024年度
+  value: 3
+  source: データで見る2024年度

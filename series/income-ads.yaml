@@ -1,0 +1,16 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: income-ads
+name: 構内の広告の収入
+category: 予算
+unit: 百万円
+period: 年度
+definition: 構内（アンテナの周り）の広告の掲出料
+owner_role: 未定
+update: 年次
+values:
+- period: 2025年度
+  value: 0.4
+  estimate: true
+  source: UM2025b
+  note: 2025年4月11日に開始。1か所あたり年40万円または20万円で、この年は2か所。すべて売れれば780万円

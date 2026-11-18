@@ -1,0 +1,17 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: income-grant
+name: 運営費交付金（観測所の分）
+category: 予算
+unit: 百万円
+period: 年度
+definition: 国立天文台から観測所に配分された運営費交付金
+owner_role: 未定
+update: 年次
+values:
+- period: 2025年度
+  value: 100
+  estimate: true
+  source: UM2025b
+  note: 発表は「~100M」。さらに減らす圧力があるとする
+note: 外部評価2023 の記述からの見積もり（2023年度に約1億円）は budget-operations

@@ -1,0 +1,21 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: observer-institutions
+name: 45m 鏡の観測者の所属機関の数
+category: 利用
+unit: 機関
+period: 年度
+definition: 観測者の所属する機関の数（重複を除く）
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  value: 39
+  source: データで見る2023年度
+  note: 10か国
+- period: 2024年度
+  value: 54
+  source: データで見る2024年度
+  note: 10か国
