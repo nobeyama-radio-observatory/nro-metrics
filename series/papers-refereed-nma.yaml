@@ -1,0 +1,57 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: papers-refereed-nma
+name: 査読論文の数（ミリ波干渉計）
+category: 成果
+unit: 本
+period: 暦年
+definition: ミリ波干渉計（Rainbow を含む）を使った査読論文の数。出典は papers-refereed-all と同じ
+owner_role: 未定
+update: 止めた系列
+values:
+- period: '2013'
+  value: 5
+  estimate: true
+  source: 40周年記念誌 p.168
+  note: 40周年記念誌 p.168 の図から読み取った値（目盛りは 10 本ごと、誤差は 1〜2 本）
+- period: '2014'
+  value: 2
+  estimate: true
+  source: 40周年記念誌 p.168
+  note: 40周年記念誌 p.168 の図から読み取った値（目盛りは 10 本ごと、誤差は 1〜2 本）
+- period: '2015'
+  value: 2
+  estimate: true
+  source: 40周年記念誌 p.168
+  note: 40周年記念誌 p.168 の図から読み取った値（目盛りは 10 本ごと、誤差は 1〜2 本）
+- period: '2016'
+  value: 1
+  estimate: true
+  source: 40周年記念誌 p.168
+  note: 40周年記念誌 p.168 の図から読み取った値（目盛りは 10 本ごと、誤差は 1〜2 本）
+- period: '2017'
+  value: 2
+  estimate: true
+  source: 40周年記念誌 p.168
+  note: 40周年記念誌 p.168 の図から読み取った値（目盛りは 10 本ごと、誤差は 1〜2 本）
+- period: '2018'
+  value: 0
+  estimate: true
+  source: 40周年記念誌 p.168
+  note: 40周年記念誌 p.168 の図から読み取った値（目盛りは 10 本ごと、誤差は 1〜2 本）
+- period: '2019'
+  value: 0
+  estimate: true
+  source: 40周年記念誌 p.168
+  note: 40周年記念誌 p.168 の図から読み取った値（目盛りは 10 本ごと、誤差は 1〜2 本）
+- period: '2020'
+  value: 0
+  estimate: true
+  source: 40周年記念誌 p.168
+  note: 40周年記念誌 p.168 の図から読み取った値（目盛りは 10 本ごと、誤差は 1〜2 本）
+- period: '2021'
+  value: 0
+  estimate: true
+  source: 40周年記念誌 p.168
+  note: 40周年記念誌 p.168 の図から読み取った値（目盛りは 10 本ごと、誤差は 1〜2 本）。2021年は9月18日までの値
+note: ミリ波干渉計は2011年5月に運用を終えた

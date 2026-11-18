@@ -1,0 +1,336 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: visitors-monthly
+name: 見学者数（月）
+category: 広報
+unit: 人
+period: 月
+definition: visitors-yearly と同じ数え方の月ごとの値（未確認）
+owner_role: 未定
+update: 月次
+values:
+- period: 2012-04
+  value: 2761
+  source: 40周年記念誌 p.165
+- period: 2012-05
+  value: 8569
+  source: 40周年記念誌 p.165
+- period: 2012-06
+  value: 3740
+  source: 40周年記念誌 p.165
+- period: 2012-07
+  value: 6515
+  source: 40周年記念誌 p.165
+- period: 2012-08
+  value: 20392
+  source: 40周年記念誌 p.165
+- period: 2012-09
+  value: 6833
+  source: 40周年記念誌 p.165
+- period: 2012-10
+  value: 5430
+  source: 40周年記念誌 p.165
+- period: 2012-11
+  value: 2794
+  source: 40周年記念誌 p.165
+- period: 2012-12
+  value: 414
+  source: 40周年記念誌 p.165
+- period: 2013-01
+  value: 394
+  source: 40周年記念誌 p.165
+- period: 2013-02
+  value: 496
+  source: 40周年記念誌 p.165
+- period: 2013-03
+  value: 1045
+  source: 40周年記念誌 p.165
+- period: 2013-04
+  value: 2910
+  source: 40周年記念誌 p.165
+- period: 2013-05
+  value: 8627
+  source: 40周年記念誌 p.165
+- period: 2013-06
+  value: 3874
+  source: 40周年記念誌 p.165
+- period: 2013-07
+  value: 7131
+  source: 40周年記念誌 p.165
+- period: 2013-08
+  value: 19332
+  source: 40周年記念誌 p.165
+- period: 2013-09
+  value: 6273
+  source: 40周年記念誌 p.165
+- period: 2013-10
+  value: 5083
+  source: 40周年記念誌 p.165
+- period: 2013-11
+  value: 3019
+  source: 40周年記念誌 p.165
+- period: 2013-12
+  value: 914
+  source: 40周年記念誌 p.165
+- period: 2014-01
+  value: 370
+  source: 40周年記念誌 p.165
+- period: 2014-02
+  value: 216
+  source: 40周年記念誌 p.165
+- period: 2014-03
+  value: 794
+  source: 40周年記念誌 p.165
+- period: 2014-04
+  value: 1761
+  source: 40周年記念誌 p.165
+- period: 2014-05
+  value: 7384
+  source: 40周年記念誌 p.165
+- period: 2014-06
+  value: 3475
+  source: 40周年記念誌 p.165
+- period: 2014-07
+  value: 6988
+  source: 40周年記念誌 p.165
+- period: 2014-08
+  value: 16302
+  source: 40周年記念誌 p.165
+- period: 2014-09
+  value: 5858
+  source: 40周年記念誌 p.165
+- period: 2014-10
+  value: 4624
+  source: 40周年記念誌 p.165
+- period: 2014-11
+  value: 3120
+  source: 40周年記念誌 p.165
+- period: 2014-12
+  value: 385
+  source: 40周年記念誌 p.165
+- period: 2015-01
+  value: 227
+  source: 40周年記念誌 p.165
+- period: 2015-02
+  value: 436
+  source: 40周年記念誌 p.165
+- period: 2015-03
+  value: 975
+  source: 40周年記念誌 p.165
+- period: 2015-04
+  value: 1523
+  source: 40周年記念誌 p.165
+- period: 2015-05
+  value: 7475
+  source: 40周年記念誌 p.165
+- period: 2015-06
+  value: 4382
+  source: 40周年記念誌 p.165
+- period: 2015-07
+  value: 6218
+  source: 40周年記念誌 p.165
+- period: 2015-08
+  value: 15522
+  source: 40周年記念誌 p.165
+- period: 2015-09
+  value: 6584
+  source: 40周年記念誌 p.165
+- period: 2015-10
+  value: 5388
+  source: 40周年記念誌 p.165
+- period: 2015-11
+  value: 2448
+  source: 40周年記念誌 p.165
+- period: 2015-12
+  value: 791
+  source: 40周年記念誌 p.165
+- period: 2016-01
+  value: 628
+  source: 40周年記念誌 p.165
+- period: 2016-02
+  value: 544
+  source: 40周年記念誌 p.165
+- period: 2016-03
+  value: 1111
+  source: 40周年記念誌 p.165
+- period: 2016-04
+  value: 2034
+  source: 40周年記念誌 p.165
+- period: 2016-05
+  value: 6870
+  source: 40周年記念誌 p.165
+- period: 2016-06
+  value: 4033
+  source: 40周年記念誌 p.165
+- period: 2016-07
+  value: 6240
+  source: 40周年記念誌 p.165
+- period: 2016-08
+  value: 13847
+  source: 40周年記念誌 p.165
+- period: 2016-09
+  value: 4117
+  source: 40周年記念誌 p.165
+- period: 2016-10
+  value: 4401
+  source: 40周年記念誌 p.165
+- period: 2016-11
+  value: 2539
+  source: 40周年記念誌 p.165
+- period: 2016-12
+  value: 545
+  source: 40周年記念誌 p.165
+- period: 2017-01
+  value: 392
+  source: 40周年記念誌 p.165
+- period: 2017-02
+  value: 548
+  source: 40周年記念誌 p.165
+- period: 2017-03
+  value: 1070
+  source: 40周年記念誌 p.165
+- period: 2017-04
+  value: 1637
+  source: 40周年記念誌 p.165
+- period: 2017-05
+  value: 6566
+  source: 40周年記念誌 p.165
+- period: 2017-06
+  value: 3340
+  source: 40周年記念誌 p.165
+- period: 2017-07
+  value: 5877
+  source: 40周年記念誌 p.165
+- period: 2017-08
+  value: 14103
+  source: 40周年記念誌 p.165
+- period: 2017-09
+  value: 4556
+  source: 40周年記念誌 p.165
+- period: 2017-10
+  value: 3345
+  source: 40周年記念誌 p.165
+- period: 2017-11
+  value: 2580
+  source: 40周年記念誌 p.165
+- period: 2017-12
+  value: 686
+  source: 40周年記念誌 p.165
+- period: 2018-01
+  value: 492
+  source: 40周年記念誌 p.165
+- period: 2018-02
+  value: 476
+  source: 40周年記念誌 p.165
+- period: 2018-03
+  value: 1195
+  source: 40周年記念誌 p.165
+- period: 2018-04
+  value: 2645
+  source: 40周年記念誌 p.165
+- period: 2018-05
+  value: 6714
+  source: 40周年記念誌 p.165
+- period: 2018-06
+  value: 2736
+  source: 40周年記念誌 p.165
+- period: 2018-07
+  value: 5280
+  source: 40周年記念誌 p.165
+- period: 2018-08
+  value: 14231
+  source: 40周年記念誌 p.165
+- period: 2018-09
+  value: 4168
+  source: 40周年記念誌 p.165
+- period: 2018-10
+  value: 3288
+  source: 40周年記念誌 p.165
+- period: 2018-11
+  value: 2626
+  source: 40周年記念誌 p.165
+- period: 2018-12
+  value: 732
+  source: 40周年記念誌 p.165
+- period: 2019-01
+  value: 396
+  source: 40周年記念誌 p.165
+- period: 2019-02
+  value: 535
+  source: 40周年記念誌 p.165
+- period: 2019-03
+  value: 1130
+  source: 40周年記念誌 p.165
+- period: 2019-04
+  value: 2791
+  source: 40周年記念誌 p.165
+- period: 2019-05
+  value: 5831
+  source: 40周年記念誌 p.165
+- period: 2019-06
+  value: 2842
+  source: 40周年記念誌 p.165
+- period: 2019-07
+  value: 4567
+  source: 40周年記念誌 p.165
+- period: 2019-08
+  value: 13009
+  source: 40周年記念誌 p.165
+- period: 2019-09
+  value: 4602
+  source: 40周年記念誌 p.165
+- period: 2019-10
+  value: 2626
+  source: 40周年記念誌 p.165
+- period: 2019-11
+  value: 2814
+  source: 40周年記念誌 p.165
+- period: 2019-12
+  value: 787
+  source: 40周年記念誌 p.165
+- period: 2020-01
+  value: 542
+  source: 40周年記念誌 p.165
+- period: 2020-02
+  value: 1061
+  source: 40周年記念誌 p.165
+- period: 2020-03
+  value: 145
+  source: 40周年記念誌 p.165
+- period: 2020-04
+  value: 0
+  source: 40周年記念誌 p.165
+- period: 2020-05
+  value: 0
+  source: 40周年記念誌 p.165
+- period: 2020-06
+  value: 737
+  source: 40周年記念誌 p.165
+- period: 2020-07
+  value: 1944
+  source: 40周年記念誌 p.165
+- period: 2020-08
+  value: 8859
+  source: 40周年記念誌 p.165
+- period: 2020-09
+  value: 4149
+  source: 40周年記念誌 p.165
+- period: 2020-10
+  value: 4028
+  source: 40周年記念誌 p.165
+- period: 2020-11
+  value: 3295
+  source: 40周年記念誌 p.165
+- period: 2020-12
+  value: 1107
+  source: 40周年記念誌 p.165
+- period: 2021-01
+  value: 252
+  source: 40周年記念誌 p.165
+- period: 2021-02
+  value: 539
+  source: 40周年記念誌 p.165
+- period: 2021-03
+  value: 1061
+  source: 40周年記念誌 p.165
+note: 夏（8月）が最も多く、冬（12〜2月）は少ない。2020年3月と4〜5月の少なさは COVID-19 によるとみられる（推測）

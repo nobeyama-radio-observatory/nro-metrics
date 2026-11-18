@@ -1,0 +1,28 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: offered-hours
+name: 45m 鏡の観測の提供時間
+category: 運用
+unit: 時間
+period: 年度
+definition: 1年度に観測に提供する時間の枠（共同利用、のちに有料の望遠鏡時間）
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: 2018年度
+  value: 3000
+  source: 外部評価2023 p.10
+  note: 2019年度に 1,700 時間に減らす前の水準（外部評価は「3000 から 1700 に減らした」とする）。何年度からこの水準かは未確認
+- period: 2019年度
+  value: 1700
+  source: 外部評価2023 p.10
+- period: 2020年度
+  value: 1700
+  source: 外部評価2023 p.10
+- period: 2022年度
+  value: 3000
+  source: 40周年記念誌 p.116、有料望遠鏡時間の案内 https://www.nro.nao.ac.jp/projects/45m/charge-for-the-nobeyama-45-m-telescope-time/
+  note: 有料の望遠鏡時間の総枠（計画）。実際に販売した時間は未確認
+note: 外部評価2023 p.7 は、少なくとも年 3,000 時間の運用を目指すべきとする

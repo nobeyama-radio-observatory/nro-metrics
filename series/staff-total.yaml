@@ -1,0 +1,19 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: staff-total
+name: 観測所の職員の数（規模）
+category: 人員
+unit: 人
+period: 年度
+definition: 観測所の職員の総数の規模
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  range:
+  - 12
+  - 13
+  estimate: true
+  source: 外部評価2023 p.9
+  note: 外部評価は「予算と職員が倍（2億円と25人）なら、従来の審査に戻せる」とする。いまの職員はその半分（12〜13人）とみた見積もり
+note: 外部評価2023 p.7 は、研究職員は少なくとも2人を保つべきとし、若い職員が少ないことを心配している
