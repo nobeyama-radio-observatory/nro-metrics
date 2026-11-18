@@ -1,0 +1,17 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: budget-operations
+name: 観測所の予算（規模）
+category: 予算
+unit: 百万円
+period: 年度
+definition: 観測所の運営の予算の規模。内訳と、人件費を含むかは未確認
+owner_role: 未定
+update: 年次
+values:
+- period: 2023年度
+  value: 100
+  estimate: true
+  source: 外部評価2023 p.9
+  note: 外部評価は「予算と職員が倍（2億円と25人）なら、従来の審査に戻せる」とする。いまの予算はその半分（約1億円）とみた見積もり
+note: 外部評価2023 p.7 は、とても少ない予算と最小限の保守の費用で、微妙な均衡を保っているとし、これ以上の削減に反対する。内訳の公開の範囲は担当と確かめてから広げる（判断記録 0007）

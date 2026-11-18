@@ -1,0 +1,26 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: downtime-ratio
+name: 45m 鏡の観測の停止の割合（天候と技術的な故障）
+category: 運用
+unit: '%'
+period: 年度
+definition: 提供時間のうち、天候と技術的な故障で観測できなかった時間の割合。数え方の詳細は未確認
+assets:
+- nro45m
+owner_role: 未定
+update: 年次
+values:
+- period: 2019年度
+  range:
+  - 30
+  - 40
+  source: 外部評価2023 p.10
+  note: 外部評価は 2019〜2020年と2020〜2021年の期間をまとめて「30〜40%」とする
+- period: 2020年度
+  range:
+  - 30
+  - 40
+  source: 外部評価2023 p.10
+  note: 同上
+note: 外部評価2023 p.4 は、有料の望遠鏡時間では停止を 50% より低く抑え、時間のおよそ 60% で良いデータを得るべきとする。有料の望遠鏡時間の成功率は、これまでの例で約6割（40周年記念誌 p.116、2021年度末の時点）

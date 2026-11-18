@@ -1,0 +1,18 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: trouble-count
+name: 45m 鏡の障害の件数（観測期）
+category: 障害
+unit: 件
+period: 観測期
+definition: 観測所の障害情報のページに載った障害の数（Trouble ID の数）
+assets:
+- nro45m
+owner_role: 未定
+update: 随時
+values:
+- period: 2026-2027年の観測期（2026-11-12 まで）
+  value: 7
+  source: 障害情報 https://www.nro.nao.ac.jp/projects/45m/projects-45m-trouble/ （2026年11月12日更新の版、Trouble ID 2026-1〜2026-7）
+  note: 観測期の途中の値
+note: 障害情報のページには、いまの観測期の分だけが載っている。過去の観測期の件数は未確認

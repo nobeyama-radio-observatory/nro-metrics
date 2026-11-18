@@ -1,0 +1,18 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: staff-technical-onsite
+name: 現地の技術系職員の数
+category: 人員
+unit: 人
+period: 年度
+definition: 野辺山の現地にいる技術系職員の数。数え方の詳細（任期付きを含むかなど）は未確認
+owner_role: 未定
+update: 年次
+values:
+- period: 2018年度
+  value: 10
+  source: 技術シンポ2019 https://www2.nao.ac.jp/~open-info/engipromo/draftparts_2019/gk/tecsym19_Miyazawa_Chieko.pdf
+- period: 2019年度
+  value: 5
+  source: 技術シンポ2019
+note: グループ単位の内訳は出さない（ハブの metrics/README.md の書き方の決まり）

@@ -1,0 +1,214 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: proposals-accepted
+name: 45m 鏡の共同利用の観測提案の採択件数
+category: 利用
+unit: 件
+period: 年度
+definition: 45m 鏡の共同利用の観測提案のうち採択された件数
+assets:
+- nro45m
+owner_role: 未定
+update: 止めた系列
+values:
+- period: 1982年度
+  value: 53
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1983年度
+  value: 41
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1984年度
+  value: 47
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1985年度
+  value: 61
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1986年度
+  value: 57
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1987年度
+  value: 61
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1988年度
+  value: 49
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1989年度
+  value: 49
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1990年度
+  value: 47
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1991年度
+  value: 45
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1992年度
+  value: 37
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1993年度
+  value: 49
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1994年度
+  value: 40
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1995年度
+  value: 37
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1996年度
+  value: 50
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1997年度
+  value: 65
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1998年度
+  value: 60
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 1999年度
+  value: 56
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2000年度
+  value: 67
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2001年度
+  value: 67
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2002年度
+  value: 59
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2003年度
+  value: 59
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2004年度
+  value: 64
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2005年度
+  value: 41
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2006年度
+  value: 46
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2007年度
+  value: 49
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2008年度
+  value: 35
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2009年度
+  value: 41
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2010年度
+  value: 46
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2011年度
+  value: 47
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2012年度
+  value: 44
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2013年度
+  value: 49
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2014年度
+  value: 40
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2015年度
+  value: 30
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2016年度
+  value: 43
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2017年度
+  value: 34
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2018年度
+  value: 28
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+- period: 2019年度
+  value: 11
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）。外部評価2023 p.10 は、2019〜2020年度と2020〜2021年度の提案を 10〜13 件としており、整合する
+- period: 2020年度
+  value: 14
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）。外部評価2023 p.10 は、2019〜2020年度と2020〜2021年度の提案を 10〜13 件としており、整合する
+- period: 2021年度
+  value: 11
+  estimate: true
+  source: 40周年記念誌 p.166
+  note: 40周年記念誌 p.166 の図1から読み取った値（目盛りは 20 件ごと、誤差は数件）
+note: proposals-submitted と同じ

@@ -1,0 +1,130 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: visitors-yearly
+name: 見学者数（年度）
+category: 広報
+unit: 人
+period: 年度
+definition: 構内の見学者の数。一般の見学と特別公開の合計。数え方の詳細（数える地点など）は未確認
+owner_role: 未定
+update: 年次
+values:
+- period: 1982年度
+  value: 15644
+  source: 40周年記念誌 p.164
+- period: 1983年度
+  value: 96272
+  source: 40周年記念誌 p.164
+- period: 1984年度
+  value: 121361
+  source: 40周年記念誌 p.164
+- period: 1985年度
+  value: 127286
+  source: 40周年記念誌 p.164
+- period: 1986年度
+  value: 138923
+  source: 40周年記念誌 p.164
+- period: 1987年度
+  value: 142451
+  source: 40周年記念誌 p.164
+- period: 1988年度
+  value: 141472
+  source: 40周年記念誌 p.164
+- period: 1989年度
+  value: 149411
+  source: 40周年記念誌 p.164
+- period: 1990年度
+  value: 149118
+  source: 40周年記念誌 p.164
+- period: 1991年度
+  value: 153562
+  source: 40周年記念誌 p.164
+- period: 1992年度
+  value: 148403
+  source: 40周年記念誌 p.164
+- period: 1993年度
+  value: 131872
+  source: 40周年記念誌 p.164
+- period: 1994年度
+  value: 129754
+  source: 40周年記念誌 p.164
+- period: 1995年度
+  value: 115093
+  source: 40周年記念誌 p.164
+- period: 1996年度
+  value: 105241
+  source: 40周年記念誌 p.164
+- period: 1997年度
+  value: 95655
+  source: 40周年記念誌 p.164
+- period: 1998年度
+  value: 90155
+  source: 40周年記念誌 p.164
+- period: 1999年度
+  value: 83774
+  source: 40周年記念誌 p.164
+- period: 2000年度
+  value: 73871
+  source: 40周年記念誌 p.164
+- period: 2001年度
+  value: 73532
+  source: 40周年記念誌 p.164
+- period: 2002年度
+  value: 64837
+  source: 40周年記念誌 p.164
+- period: 2003年度
+  value: 61421
+  source: 40周年記念誌 p.164
+- period: 2004年度
+  value: 61879
+  source: 40周年記念誌 p.164
+- period: 2005年度
+  value: 65442
+  source: 40周年記念誌 p.164
+- period: 2006年度
+  value: 58161
+  source: 40周年記念誌 p.164
+- period: 2007年度
+  value: 59142
+  source: 40周年記念誌 p.164
+- period: 2008年度
+  value: 55987
+  source: 40周年記念誌 p.164
+- period: 2009年度
+  value: 57509
+  source: 40周年記念誌 p.164
+- period: 2010年度
+  value: 58935
+  source: 40周年記念誌 p.164
+- period: 2011年度
+  value: 63134
+  source: 40周年記念誌 p.164
+- period: 2012年度
+  value: 59383
+  source: 40周年記念誌 p.164
+- period: 2013年度
+  value: 58543
+  source: 40周年記念誌 p.164
+- period: 2014年度
+  value: 51535
+  source: 40周年記念誌 p.164
+- period: 2015年度
+  value: 52614
+  source: 40周年記念誌 p.164
+- period: 2016年度
+  value: 46636
+  source: 40周年記念誌 p.164
+- period: 2017年度
+  value: 44853
+  source: 40周年記念誌 p.164
+- period: 2018年度
+  value: 44481
+  source: 40周年記念誌 p.164
+- period: 2019年度
+  value: 41617
+  source: 40周年記念誌 p.164
+- period: 2020年度
+  value: 25971
+  source: 40周年記念誌 p.164
+  note: COVID-19 の感染拡大で、4〜5月は見学を受け付けなかった（月別の表で0人）。特別公開は0人
+note: 2021年度以降は記録がない（40周年記念誌の後）。累計は2013年10月17日に300万人を超えた（40周年記念誌 p.17）
