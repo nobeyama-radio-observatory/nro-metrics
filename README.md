@@ -11,7 +11,8 @@
 | id | 名称 | 分類 | 区切り | 期間 |
 |---|---|---|---|---|
 | [budget-operations](series/budget-operations.yaml) | 観測所の予算（規模） | 予算 | 年度 | 2023年度 |
-| [charge-per-hour](series/charge-per-hour.yaml) | 有料の望遠鏡時間の単価 | 料金 | 時点 | 2026-11-18 時点（国内の機関の研究代表者）〜2026-11-18 時点（国外の機関の研究代表者）（2件） |
+| [charge-per-hour-domestic](series/charge-per-hour-domestic.yaml) | 有料の望遠鏡時間の単価（国内の機関の研究代表者） | 料金 | 時点 | 2026-11-18（1件） |
+| [charge-per-hour-overseas](series/charge-per-hour-overseas.yaml) | 有料の望遠鏡時間の単価（国外の機関の研究代表者） | 料金 | 時点 | 2026-11-18（1件） |
 | [cost-electricity](series/cost-electricity.yaml) | 電気代 | 予算 | 年度 | 2025年度 |
 | [cost-maintenance](series/cost-maintenance.yaml) | 装置の保守の費用 | 予算 | 年度 | 2025年度 |
 | [cost-total](series/cost-total.yaml) | 観測所の運営に要る費用 | 予算 | 年度 | 2025年度 |
