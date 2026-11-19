@@ -1,0 +1,18 @@
+# 項目の定義はハブの metrics/README.md を参照。
+#   https://github.com/nobeyama-radio-observatory/nro-context/blob/main/metrics/README.md
+id: charge-per-hour-overseas
+name: 有料の望遠鏡時間の単価（国外の機関の研究代表者）
+category: 料金
+unit: 円/時間
+period: 時点
+definition: 45m 鏡の有料の望遠鏡時間の1時間あたりの単価（税別）。研究代表者が国外の機関に所属する場合
+assets:
+- nro45m
+owner_role: 未定
+update: 随時
+values:
+- period: 2026-11-18
+  value: 30000
+  source: 有料望遠鏡時間の案内 https://www.nro.nao.ac.jp/projects/45m/charge-for-the-nobeyama-45-m-telescope-time/
+  note: 税は別に10%
+note: 2022年度の開始のときの計画も同じ単価（40周年記念誌 p.116）
